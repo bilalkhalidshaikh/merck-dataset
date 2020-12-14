@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  color: #461aac;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -25,7 +26,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #5419dd;
 }
 
 @keyframes App-logo-spin {
